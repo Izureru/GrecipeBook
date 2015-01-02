@@ -1,0 +1,16 @@
+[
+    {
+        "age": 0, 
+        "id": "RandomDish", 
+        "imageUrl": "img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "name": "Random Dish z", 
+        "snippet": "The most random and outlandish combination of food ever."
+    },
+    {
+        "age": 1, 
+        "id": "PeanutSoup", 
+        "imageUrl": "img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "name": "Peanut Soup", 
+        "snippet": "Traditional Peanut Soup warms the soul"
+    } 
+]

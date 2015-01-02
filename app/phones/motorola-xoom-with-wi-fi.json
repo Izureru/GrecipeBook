@@ -1,0 +1,24 @@
+{
+    "name": "Random Dish", 
+    
+    "ingredients":{
+        "salt": "20 grams",
+        "pepper":"30 grams"
+    },
+    
+    "steps":[
+        "add salt",
+        "add pepper"
+    ],
+
+    "id": "Random Dish",
+
+    "images": [
+        "img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "img/phones/motorola-xoom-with-wi-fi.1.jpg", 
+        "img/phones/motorola-xoom-with-wi-fi.2.jpg", 
+        "img/phones/motorola-xoom-with-wi-fi.3.jpg", 
+        "img/phones/motorola-xoom-with-wi-fi.4.jpg", 
+        "img/phones/motorola-xoom-with-wi-fi.5.jpg"
+    ] 
+}

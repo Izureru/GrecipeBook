@@ -1,0 +1,33 @@
+{
+    "name": "Random Dish", 
+    
+    "ingredients":[
+        {
+         "itemName": "salt",
+        "itemAmount":"20 grams"
+        },
+        {
+         "itemName": "pepper",
+         "itemAmount":"30 grams"
+        },
+        {"itemName":"water",
+         "itemAmount":"5 litres"
+        }
+    ],
+    
+    "steps":[
+        "add salt",
+        "add pepper"
+    ],
+
+    "id": "Random Dish",
+
+    "images": [
+        "img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "img/phones/motorola-xoom-with-wi-fi.1.jpg", 
+        "img/phones/motorola-xoom-with-wi-fi.2.jpg", 
+        "img/phones/motorola-xoom-with-wi-fi.3.jpg", 
+        "img/phones/motorola-xoom-with-wi-fi.4.jpg", 
+        "img/phones/motorola-xoom-with-wi-fi.5.jpg"
+    ] 
+}

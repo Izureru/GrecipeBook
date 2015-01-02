@@ -1,0 +1,50 @@
+{
+    "name": "Peanut Soup", 
+    
+    "ingredients":[
+        {
+         "itemName": "peanuts",
+        "itemAmount":"200 grams"
+        },
+        {
+         "itemName": "saltfish",
+         "itemAmount":"300 grams"
+        },
+        {"itemName":"wiri-wiri peppers",
+         "itemAmount":"2"
+        },
+        {
+         "itemName": "onion",
+        "itemAmount":"1"
+        },
+        {
+         "itemName": "salt",
+         "itemAmount":"5 grams"
+        },
+        {"itemName":"water",
+         "itemAmount":"0.7 millilitres"
+        }
+    ],
+    
+    "steps":[
+        "Grind the parched peanuts",
+        "Grind or chop the peppers and onion",
+        "Prepare the fish and put to cook with salt, or prepare and cook salf fish or dried fish",
+        "When cooked make up the stock to 0.7 millilitres",
+        "Mix the nuts to a smooth paste with some of the hot stock. Add this to the rest of the stock; add ground peppers and onions.",
+        "Bring to the boil. Taste and season",
+        "Leave to simmer gently until thick",
+        "Serve with pounded yam foo-foo"
+    ],
+
+    "id": "PeanutSoup",
+
+    "feeds": 4,
+
+    "images": [
+        "img/phones/motorola-xoom-with-wi-fi.0.jpg", 
+        "img/phones/motorola-xoom-with-wi-fi.1.jpg", 
+        "img/phones/motorola-xoom-with-wi-fi.2.jpg", 
+        "img/phones/motorola-xoom-with-wi-fi.3.jpg"
+    ] 
+}

@@ -1,0 +1,30 @@
+<div class="phone-images">
+  <img ng-src="{{img}}"
+       class="phone"
+       ng-repeat="img in phone.images"
+       ng-class="{active: mainImageUrl==img}">
+</div>
+
+<h1>{{phone.name}}</h1>
+
+<ul class="phone-thumbs">
+  <li ng-repeat="img in phone.images">
+    <img ng-src="{{img}}" ng-click="setImage(img)">
+  </li>
+</ul>
+
+<ul class="specs">
+  <li>
+    <span>Ingredients</span>
+    <dl>
+      <dd ng-repeat="ingredients in phone.ingredients">{{ingredients.itemName}}:{{ingredients.itemAmount}}</dd>
+    </dl>
+  </li>
+
+    <dl>
+      <dt>Steps</dt>
+      <li>
+      <dd ng-repeat="step in phone.steps">{{step}}</dd>
+    </dl>
+  </li>
+</ul>
